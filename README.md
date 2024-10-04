@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 # nest-backend-boilerplate
 Boilerplate code for nestjs backend
-=======
-# 3dspool-service
-Service to handle 3d spool upload and showcase from vtfr
-
-
 
 
 ## Installation
@@ -29,4 +23,4 @@ $ npm run start:prod
 ## Stay in touch
 
 - Author - Harshit Jain
->>>>>>> 10d3a5d (First commit)
+
